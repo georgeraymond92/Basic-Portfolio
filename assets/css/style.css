@@ -1,0 +1,25 @@
+.header {
+    color: blue;
+}
+.aboutme {
+    background: white;
+    width: 610px;
+    border: 2px solid black;
+    padding: 20px;
+    float: left;
+}
+.content {
+    width: 960px;
+    margin: auto;
+}
+.CWM {
+    background: white;
+    width: 230px;
+    border: 2px solid black;
+    padding: 20px;
+    float: right;
+    margin: auto;
+}
+.parent{
+    background: lightblue;
+}
