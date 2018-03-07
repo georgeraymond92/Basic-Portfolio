@@ -1,6 +1,6 @@
 body {
     font-family: 'sans-serif', Times, Times New Roman, serif;
-    background-image: url("assets/images/pow-star.png");
+    background-image: url(../images/pow-star.png);
 }
 .parent {
 	width: 1200px;   
@@ -102,7 +102,7 @@ body {
 	float: 0;
 	font-size: 20px;
 	top: 70px;
-	border-bottom: 5px solid #000000;
+	border-bottom: 4px solid #000000;
 	border-bottom-style:ridge;
 	right: -60px;
 	margin-top: 20px;
@@ -110,6 +110,12 @@ body {
 .links2 {
     width: 175px;
     margin: auto;
+}
+input[type=text],
+input[type=email],
+textarea {
+  display: block;
+  width: 100%;
 }
 .footer {
 	position: fixed;
